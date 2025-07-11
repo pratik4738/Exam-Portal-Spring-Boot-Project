@@ -4,15 +4,15 @@ by Team ExamWizards
 Online Exam Portal is a full-stack web application built with Angular, Spring Boot, and MySQL that allows students to register, take timed exams, and view results. Admins can create and manage exams, questions, and view student analytics. The app features JWT-based authentication, role-based access control and a responsive, high-quality UI.
 The platform caters to both individual learners and educational institutions, providing a comprehensive solution for conducting online multiple-choice question (MCQ) exams. Exam Portal ensures robustness, scalability, and optimal performance. Its user-friendly interface and intuitive navigation make it accessible to a wide range of users, regardless of their technical expertise.
 
-Technology's Used
-Frontend: Tailwind CSS, React
-Backend: Java, Spring Boot, JPA, Hibernate, Java MailSender
-Database: MySql
-Future Development
-Admin promote anyone as admin
-Admin can see individual quiz attempted
-A blog option where anyone shares his knowledge
-User can see his all attempted quiz with date and time
+*Technology's Used*
+-Frontend: Tailwind CSS, React
+-Backend: Java, Spring Boot, JPA, Hibernate, Java MailSender
+-Database: MySql
+-Future Development
+-Admin promote anyone as admin
+-Admin can see individual quiz attempted
+-A blog option where anyone shares his knowledge
+-User can see his all attempted quiz with date and time
 
 
 ** Backend Required For Frontend ** -- EndPoint funtionalites and all api
